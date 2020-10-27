@@ -1,2 +1,3 @@
-# dotvideochallenge
-Github repository for 2020 Driver Video Privacy Challenge
+# Driver Video Privacy Data Challenge
+
+
