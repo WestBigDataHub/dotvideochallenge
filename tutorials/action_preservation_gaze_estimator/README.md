@@ -21,6 +21,18 @@ We have tested this code in Google Colab with the following:
 * CUDA 10.1
 
 If used on a cloud-based environment like Google Colab, zip the repository first before upload.
+
+## Run locally using Jupyter Notebook
+[TODO] include setup instructions for jupyter
+
+## Run the notebook using Binder
+
+If you do not wish to install the environment using the above method this notebook can be run without local setup at the following link: https://mybinder.org/v2/gh/andrewboka/actionpreservation/main?filepath=action_preservation_gaze_estimator.ipynb
+
+Binder can be used to run a jupyter notebook in your browser by building a docker image of a github repository. The repository hosting the binder image is currently located at https://github.com/andrewboka/actionpreservation. You can learn more about binder by visiting their website at https://mybinder.org.
+
+
+
 ## Directory Structure & Usage
 
 * `models`: Contains neural net gaze estimator and pre-trained weights from [Mobile FaceGaze](https://github.com/glefundes/mobile-face-gaze).
