@@ -23,7 +23,14 @@ We have tested this code in Google Colab with the following:
 If used on a cloud-based environment like Google Colab, zip the repository first before upload.
 
 ## Run locally using Jupyter Notebook
-[TODO] include setup instructions for jupyter
+
+In order to run Jupyter locally it is recommended to first install [Anaconda](https://www.anaconda.com/). The instructions can be found at this link: https://docs.anaconda.com/anaconda/install/windows/. 
+
+Once you have installed Anaconda it can be used to install Jupyter Notebook using the command `conda install -c conda-forge notebook`. Once installed, jupyter notebook can be run with the command jupyter notebook from the desired directory.
+
+Some helpful links to get started with jupyter and anaconda environments: 
+- https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+- https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
 
 ## Run the notebook using Binder
 
