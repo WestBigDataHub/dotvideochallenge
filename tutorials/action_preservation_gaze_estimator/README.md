@@ -24,7 +24,7 @@ If used on a cloud-based environment like Google Colab, zip the repository first
 
 ## Run locally using Jupyter Notebook
 
-In order to run Jupyter locally it is recommended to first install [Anaconda](https://www.anaconda.com/). The instructions can be found at this link: https://docs.anaconda.com/anaconda/install/windows/. 
+In order to run Jupyter locally it is recommended to first install [Anaconda](https://www.anaconda.com/). The instructions can be found at this [here]( https://docs.anaconda.com/anaconda/install/windows/). 
 
 Once you have installed Anaconda it can be used to install Jupyter Notebook using the command `conda install -c conda-forge notebook`. Once installed, jupyter notebook can be run with the command jupyter notebook from the desired directory.
 
