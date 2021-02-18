@@ -2,10 +2,10 @@
 
 The Jupyter Notebook tutorials are intended to help learn concepts relevant to the driver video challenge competition. They can also be a good review for anyone who has had experience working with video data or driver video data in the past. 
 
-Currently this directory contains two jupyter notebook tutorials although more will be added throughout the competition. The sections below will explain how to run the jupyter notebooks although it is recommended to use the provided Binder links which allow the notebooks to be run in your browser without additional setup. It is also an option to set up Jupyter locally which can be explained in the section <b>How to set up Jupyter Locally</b>
+Currently this directory contains two jupyter notebook tutorials although more will be added throughout the competition. The sections below will explain how to run the jupyter notebooks although it is recommended to use the provided Binder links which allow the notebooks to be run in your browser without additional setup. It is also an option to set up Jupyter locally which can be explained in the section <b>Jupyter Set Up</b>
 
 
-## How to set up Juptyer locally
+## Jupyter Set Up
 
 The steps below will help you set up Jupyter on your local environment so that you are able to run the provided notebooks. 
 
