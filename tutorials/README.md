@@ -14,7 +14,6 @@ The steps below will help you set up Jupyter on your local environment so that y
 3. Once the environment has been created you can type `conda env list` to see all active environments and `conda activate [environment name]` to start the environment
 4. To install jupyter notebook in the environment run `conda install -c conda-forge notebook`. Now that the notebook has been installed you can navigate to the desired directory and run the command `jupyter notebook`.
 
-
 ## Run the notebook using Binder
 
 If you do not wish to install the environment using the above method this notebook can be run without local setup at the binder link provided in notebook directory README. Binder can be used to run a jupyter notebook in your browser by building a docker image of a github repository. The links are also provided below in the section titled <b>Binder links</b>.
