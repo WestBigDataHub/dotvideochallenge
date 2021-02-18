@@ -29,6 +29,14 @@ Alternatively, you can navigate to the same folder and simply run the `video_par
 ### Mac
 Make sure you have python >= 3.5 installed and run the script `video_parser.py` inside the Videos folder.
 
+### Installing Python Using Anaconda
+
+It is recommended to use Anaconda to install Python on your local machine. The installation instructions for windows are [here](https://docs.anaconda.com/anaconda/install/windows/). 
+
+Here are some helpful links to help get started with Anaconda:
+- https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
+
 ### Output
 Running the python script will create the folders `Easy_actions`, `Medium_actions` and `Hard_actions` which each contain subfolders titled according to a specific action. Inside each of these folders, you will find videos corresponding to the action in the video.
 
