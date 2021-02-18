@@ -22,6 +22,6 @@ If you do not wish to install the environment using the above method this notebo
 
 ## Binder Links
 
-<b> Action Preservation </b> -  https://mybinder.org/v2/gh/andrewboka/actionpreservation/main?filepath=action_preservation_gaze_estimator.ipynb
+[<b> Action Preservation </b>](https://mybinder.org/v2/gh/andrewboka/actionpreservation/main?filepath=action_preservation_gaze_estimator.ipynb)
 
-<b> Judging </b> - https://mybinder.org/v2/gh/andrewboka/judging/27950dd30ee7e8f9064a66eca616b44d4a1bcad2?filepath=identification_measurement.ipynb
+[<b> Judging </b>](https://mybinder.org/v2/gh/andrewboka/judging/27950dd30ee7e8f9064a66eca616b44d4a1bcad2?filepath=identification_measurement.ipynb)
