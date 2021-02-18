@@ -36,7 +36,7 @@ Some helpful links to get started with jupyter and anaconda environments:
 
 If you do not wish to install the environment using the above method this notebook can be run without local setup at the following link: https://mybinder.org/v2/gh/andrewboka/judging/27950dd30ee7e8f9064a66eca616b44d4a1bcad2?filepath=identification_measurement.ipynb
 
-Binder can be used to run a jupyter notebook in your browser by building a docker image of a github repository. The repository hosting the binder image is currently located at https://github.com/andrewboka/actionpreservation. You can learn more about binder by visiting their website at https://mybinder.org.
+Binder can be used to run a jupyter notebook in your browser by building a docker image of a github repository. The repository hosting the binder image is currently located at https://github.com/andrewboka/judging. You can learn more about binder by visiting their website at https://mybinder.org.
 
 
 
