@@ -4,7 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 
 ### Why do some drivers crash?
-The lifetime odds of dying in car crash are <b>1 in 103</b>. Each year, vehicles crashes cost <b> hundreds of billions </b> of dollars. Research shows that <b> driver behavior </b> is the key to understanding why automobile accidents occur. It's a primary factor in $\frac{2}{3}$ of crashes and a contributing factor in 90% of crashes. However, driver behavior is one of the <i>most difficult</i> things to study. 
+The lifetime odds of dying in car crash are <b>1 in 103</b>. Each year, vehicles crashes cost <b> hundreds of billions </b> of dollars. Research shows that <b> driver behavior </b> is the key to understanding why automobile accidents occur. It's a primary factor in \frac{2}{3} of crashes and a contributing factor in 90% of crashes. However, driver behavior is one of the <i>most difficult</i> things to study. 
 
 <b>In-cabin driver video data</b> has the potential to enhance our understanding of accidents and provide greater context for interpretation, but brings forward important questions about responsible data science and the future of research.
 
