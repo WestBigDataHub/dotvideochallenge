@@ -1,8 +1,5 @@
 ﻿# DOT Driver Video Privacy Challenge 2020
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
 ### Why do some drivers crash?
 The lifetime odds of dying in car crash are <b>1 in 103</b>. Each year, vehicles crashes cost <b> hundreds of billions </b> of dollars. Research shows that <b> driver behavior </b> is the key to understanding why automobile accidents occur. It's a primary factor in 66% of crashes and a contributing factor in 90% of crashes. However, driver behavior is one of the <i>most difficult</i> things to study. 
 
